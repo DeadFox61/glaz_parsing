@@ -1,0 +1,14 @@
+{
+	"glaz_bot":"hmaj4042923bot",
+	"fields":["fio","region","birthday","address", "possible_names"],
+	"accounts":[
+		{
+			"phone":"+12254466805",
+			"is_auto_renew":false
+		},
+		{
+			"phone":"+12392415590",
+			"is_auto_renew":false
+		}
+	]
+}

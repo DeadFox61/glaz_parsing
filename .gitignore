@@ -132,6 +132,7 @@ dmypy.json
 acc*
 archive.db
 result.xlsx
-input/
+input/*
+
 
 !input/.gitkeep
